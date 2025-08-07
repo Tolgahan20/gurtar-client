@@ -1,0 +1,83 @@
+{
+  "onboarding": {
+    "welcome": {
+      "title": "Welcome to Gurtar",
+      "description": "Join us in reducing food waste while enjoying great meals at amazing prices!"
+    },
+    "discover": {
+      "title": "Discover Surprise Boxes",
+      "description": "Find delicious surplus food from your favorite local restaurants and stores"
+    },
+    "save": {
+      "title": "Save Food & Money",
+      "description": "Get quality food at discounted prices while helping the environment"
+    },
+    "pickup": {
+      "title": "Easy Pickup",
+      "description": "Pick up your food at the specified time and enjoy your meal"
+    },
+    "button": {
+      "next": "Next",
+      "getStarted": "Get Started"
+    }
+  },
+  "auth": {
+    "login": {
+      "title": "Welcome Back",
+      "subtitle": "Sign in to continue saving food and money",
+      "submit": "Sign In",
+      "forgotPassword": "Forgot Password?",
+      "noAccount": "Don't have an account?",
+      "register": "Register",
+      "or": "or",
+      "googleSignIn": "Sign in with Google"
+    },
+    "register": {
+      "title": "Create Account",
+      "subtitle": "Join our community of food savers",
+      "submit": "Create Account",
+      "haveAccount": "Already have an account?",
+      "login": "Sign In",
+      "or": "or",
+      "googleSignUp": "Sign up with Google"
+    },
+    "forgotPassword": {
+      "title": "Forgot Password",
+      "subtitle": "Enter your email to receive a verification code",
+      "submit": "Send Code",
+      "otpTitle": "Enter Code",
+      "otpSubtitle": "Enter the 6-digit code sent to your email",
+      "verifyOtp": "Verify Code",
+      "newPasswordTitle": "New Password",
+      "newPasswordSubtitle": "Create a new password for your account",
+      "resetPassword": "Reset Password",
+      "successTitle": "Password Reset",
+      "successMessage": "Your password has been reset successfully. You can now login with your new password.",
+      "failureTitle": "Reset Failed",
+      "failureMessage": "We couldn't reset your password. Please try again or contact support if the problem persists.",
+      "tryAgain": "Try Again",
+      "backToLogin": "Back to Login"
+    },
+    "fields": {
+      "email": "Email",
+      "password": "Password",
+      "confirmPassword": "Confirm Password",
+      "newPassword": "New Password",
+      "fullName": "Full Name",
+      "phoneNumber": "Phone Number",
+      "otp": "Verification Code"
+    },
+    "errors": {
+      "emailRequired": "Email is required",
+      "emailInvalid": "Please enter a valid email",
+      "passwordRequired": "Password is required",
+      "passwordTooShort": "Password must be at least 6 characters",
+      "confirmPasswordRequired": "Please confirm your password",
+      "passwordsDontMatch": "Passwords don't match",
+      "fullNameRequired": "Full name is required",
+      "phoneNumberRequired": "Phone number is required",
+      "otpRequired": "Verification code is required",
+      "otpInvalid": "Please enter a valid 6-digit code"
+    }
+  }
+} 

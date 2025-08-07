@@ -1,0 +1,83 @@
+{
+  "onboarding": {
+    "welcome": {
+      "title": "Gurtar'a Hoş Geldiniz",
+      "description": "Harika fiyatlarla lezzetli yemeklerin tadını çıkarırken gıda israfını azaltmaya katılın!"
+    },
+    "discover": {
+      "title": "Sürpriz Paketleri Keşfedin",
+      "description": "Favori yerel restoran ve mağazalarınızdan lezzetli fazla gıdaları bulun"
+    },
+    "save": {
+      "title": "Gıda ve Para Tasarrufu",
+      "description": "Çevreye yardım ederken indirimli fiyatlarla kaliteli gıdalar alın"
+    },
+    "pickup": {
+      "title": "Kolay Teslimat",
+      "description": "Yemeğinizi belirtilen saatte alın ve tadını çıkarın"
+    },
+    "button": {
+      "next": "İleri",
+      "getStarted": "Başla"
+    }
+  },
+  "auth": {
+    "login": {
+      "title": "Tekrar Hoş Geldiniz",
+      "subtitle": "Gıda ve para tasarrufu yapmaya devam etmek için giriş yapın",
+      "submit": "Giriş Yap",
+      "forgotPassword": "Şifremi Unuttum",
+      "noAccount": "Hesabınız yok mu?",
+      "register": "Kayıt Ol",
+      "or": "veya",
+      "googleSignIn": "Google ile Giriş Yap"
+    },
+    "register": {
+      "title": "Hesap Oluştur",
+      "subtitle": "Gıda kurtarıcıları topluluğumuza katılın",
+      "submit": "Hesap Oluştur",
+      "haveAccount": "Zaten hesabınız var mı?",
+      "login": "Giriş Yap",
+      "or": "veya",
+      "googleSignUp": "Google ile Kayıt Ol"
+    },
+    "forgotPassword": {
+      "title": "Şifremi Unuttum",
+      "subtitle": "Doğrulama kodu almak için e-posta adresinizi girin",
+      "submit": "Kod Gönder",
+      "otpTitle": "Kodu Girin",
+      "otpSubtitle": "E-posta adresinize gönderilen 6 haneli kodu girin",
+      "verifyOtp": "Kodu Doğrula",
+      "newPasswordTitle": "Yeni Şifre",
+      "newPasswordSubtitle": "Hesabınız için yeni bir şifre oluşturun",
+      "resetPassword": "Şifreyi Sıfırla",
+      "successTitle": "Şifre Sıfırlandı",
+      "successMessage": "Şifreniz başarıyla sıfırlandı. Artık yeni şifrenizle giriş yapabilirsiniz.",
+      "failureTitle": "Sıfırlama Başarısız",
+      "failureMessage": "Şifrenizi sıfırlayamadık. Lütfen tekrar deneyin veya sorun devam ederse destek ekibiyle iletişime geçin.",
+      "tryAgain": "Tekrar Dene",
+      "backToLogin": "Girişe Dön"
+    },
+    "fields": {
+      "email": "E-posta",
+      "password": "Şifre",
+      "confirmPassword": "Şifreyi Onayla",
+      "newPassword": "Yeni Şifre",
+      "fullName": "Ad Soyad",
+      "phoneNumber": "Telefon Numarası",
+      "otp": "Doğrulama Kodu"
+    },
+    "errors": {
+      "emailRequired": "E-posta gerekli",
+      "emailInvalid": "Geçerli bir e-posta adresi girin",
+      "passwordRequired": "Şifre gerekli",
+      "passwordTooShort": "Şifre en az 6 karakter olmalı",
+      "confirmPasswordRequired": "Lütfen şifrenizi onaylayın",
+      "passwordsDontMatch": "Şifreler eşleşmiyor",
+      "fullNameRequired": "Ad soyad gerekli",
+      "phoneNumberRequired": "Telefon numarası gerekli",
+      "otpRequired": "Doğrulama kodu gerekli",
+      "otpInvalid": "Lütfen geçerli bir 6 haneli kod girin"
+    }
+  }
+} 

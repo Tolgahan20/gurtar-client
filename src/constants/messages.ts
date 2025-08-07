@@ -1,0 +1,28 @@
+export const AUTH_MESSAGES = {
+  ERRORS: {
+    LOGIN_FAILED: 'Login failed. Please check your credentials and try again.',
+    REGISTER_FAILED: 'Registration failed. Please try again.',
+    GOOGLE_LOGIN_FAILED: 'Google login failed. Please try again.',
+    REFRESH_TOKEN_FAILED: 'Session expired. Please login again.',
+    LOGOUT_FAILED: 'Logout failed. Please try again.',
+    VERIFY_EMAIL_FAILED: 'Email verification failed. Please try again.',
+    NETWORK_ERROR: 'Network error. Please check your connection and try again.',
+    UNAUTHORIZED: 'Unauthorized. Please login again.',
+    SERVER_ERROR: 'Server error. Please try again later.',
+    EMAIL_EXISTS: 'Email already registered. Please use a different email.',
+    EMAIL_NOT_VERIFIED: 'Please verify your email address before logging in.',
+    PASSWORD_RESET_FAILED: 'Failed to reset password. Please try again.',
+    OTP_VERIFY_FAILED: 'Failed to verify code. Please try again.',
+    OTP_SEND_FAILED: 'Failed to send verification code. Please try again.',
+  },
+  SUCCESS: {
+    LOGIN: 'Login successful!',
+    REGISTER: 'Registration successful!',
+    GOOGLE_LOGIN: 'Google login successful!',
+    LOGOUT: 'Logout successful!',
+    VERIFY_EMAIL: 'Email verified successfully!',
+    PASSWORD_RESET: 'Password reset successful!',
+    OTP_VERIFIED: 'Code verified successfully!',
+    OTP_SENT: 'Verification code sent successfully!',
+  },
+} as const;

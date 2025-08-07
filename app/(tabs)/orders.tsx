@@ -1,10 +1,10 @@
 import { StyleSheet, Text, View } from 'react-native';
 import { colors } from '../../src/constants/theme';
 
-export default function ExploreScreen() {
+export default function OrdersScreen() {
   return (
     <View style={styles.container}>
-      <Text style={styles.title}>Explore</Text>
+      <Text style={styles.title}>Orders</Text>
     </View>
   );
 }
